@@ -1,0 +1,27 @@
+{
+  "name": "psha-demo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter list --compilers coffee:coffee-script/register tests"
+  },
+  "keywords": [
+    ""
+  ],
+  "license": "Eclipse Public License (EPL)",
+  "repository": "",
+  "dependencies": {
+    "cli-color": "^0.3.2",
+    "coffee-script": "^1.8.0",
+    "lodash": "^2.4.1",
+    "moment": "^2.8.3",
+    "nject": "^1.2.2"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^1.21.4",
+    "sinon": "^1.10.3",
+    "sinon-chai": "^2.5.0"
+  }
+}
