@@ -1,16 +1,16 @@
 {
   "name": "psha-demo",
   "version": "0.0.1",
-  "description": "",
+  "description": "Simple demonstration of the Psha caching library in the terminal.",
   "main": "index.js",
   "scripts": {
     "test": "mocha --reporter list --compilers coffee:coffee-script/register tests"
   },
   "keywords": [
-    ""
+    "cache", "demo"
   ],
   "license": "Eclipse Public License (EPL)",
-  "repository": "",
+  "repository": "https://github.com/lcaballero/psha-demo.git",
   "dependencies": {
     "cli-color": "^0.3.2",
     "coffee-script": "^1.8.0",

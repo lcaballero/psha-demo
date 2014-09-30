@@ -1,12 +1,20 @@
-[![Build Status](https://travis-ci.org/lcaballero/psha-demo.svg?branch=master)](https://travis-ci.org/) [![NPM version](https://badge.fury.io/js/psha-demo.svg)](http://badge.fury.io/js/psha-demo)
-
 # Introduction
 
-## Overview
-
-## Installation
+Simple demonstration of the Psha caching library in the terminal.
 
 ## Usage
+
+```
+%> git clone https://github.com/lcaballero/psha-demo.git
+%> cd psha-demo
+%> npm install
+%> chmod +x main.coffee
+%> ./main.coffee
+```
+
+## Screen Shot
+
+![Screen Shot 1](files/images/screen-shot-2014-09-03.png, "Screen Shot")
 
 ## License
 
