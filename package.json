@@ -16,7 +16,8 @@
     "coffee-script": "^1.8.0",
     "lodash": "^2.4.1",
     "moment": "^2.8.3",
-    "nject": "^1.2.2"
+    "nject": "^1.2.2",
+    "psha": "0.0.3"
   },
   "devDependencies": {
     "chai": "^1.9.2",
