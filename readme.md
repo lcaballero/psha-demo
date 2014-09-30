@@ -14,7 +14,7 @@ Simple demonstration of the Psha caching library in the terminal.
 
 ## Screen Shot
 
-![Screen Shot 1](https://raw.githubusercontent.com/lcaballero/psha-demo/master/files/images/screen-shot-2014-09-03.png, "Screen Shot")
+![Screen Shot 1](https://raw.githubusercontent.com/lcaballero/psha-demo/master/files/images/screen-shot-2014-09-03.png "Screen Shot")
 
 ## License
 
